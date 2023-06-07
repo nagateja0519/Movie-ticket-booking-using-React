@@ -1,0 +1,24 @@
+.m {
+    display: flex;
+}
+
+.details {
+    padding-left: 200px;
+}
+
+.mn {
+    color: red;
+}
+
+.book {
+    bottom: 50px;
+    cursor: pointer;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: red;
+    border-radius: 50px;
+    color: white;
+    font-size: larger;
+}

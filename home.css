@@ -1,0 +1,27 @@
+.movies {
+    color: white;
+}
+
+.movies {
+    padding-left: 80px;
+    padding-top: 100px;
+    display: inline-flex;
+}
+
+.more {
+    position: relative;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+.sm {
+    cursor: pointer;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: red;
+    border-radius: 50px;
+    color: white;
+    font-size: larger;
+}
